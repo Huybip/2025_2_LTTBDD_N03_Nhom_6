@@ -1,1 +1,1 @@
-# 2025_2_LTTBDD_N03_Nhom_6.
+# 2025_2_LTTBDD_N03_Nhom_6
