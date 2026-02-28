@@ -1,0 +1,22 @@
+{
+  "@@locale": "vi",
+  "appTitle": "Ứng dụng Nhạc",
+  "tabHome": "Trang chủ",
+  "tabDiscovery": "Khám phá",
+  "tabAccount": "Tài khoản",
+  "tabSettings": "Cài đặt",
+  "loadingSongs": "Đang tải danh sách bài hát…",
+  "settingsTitle": "Cài đặt",
+  "language": "Ngôn ngữ",
+  "languageEnglish": "Tiếng Anh",
+  "languageVietnamese": "Tiếng Việt",
+  "groupInfo": "Thông tin nhóm",
+  "groupInfoTitle": "Giới thiệu nhóm",
+  "discoveryTitle": "Khám phá",
+  "accountTitle": "Tài khoản",
+  "notImplementedYet": "Chưa triển khai",
+  "appearance": "Giao diện",
+  "themeSystem": "Theo giao diện máy",
+  "themeLight": "Giao diện sáng",
+  "themeDark": "Giao diện tối"
+}
